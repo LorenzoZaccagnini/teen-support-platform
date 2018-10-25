@@ -27,7 +27,7 @@
 ## The online platform workflow
 1. Someone anonymously post a question in the platform
 2. A qualified member of our team (student of psychology, psychologist, medic, etc..) approve and categorize the question (anxiety, bullyism, addiction, etc..)
-3. A qualified member of our team (student of psychology, psychologist, medic, etc..) choose a question from a pool of unanswered questions and gives a single answer, no chat.
+3. A qualified member of our team (student of psychology, psychologist, medic, etc..) choose a question from a pool of unanswered questions and gives a single answer, no chat
 4. The question is closed, other people can find the question and the answer publicly searching the platform
 5. It is possible to upvote the question
 
