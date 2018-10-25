@@ -22,7 +22,7 @@
 
 ## Roles
 * Developers, build and manage the online platform
-* Support, they are qualified members (student of psychology, psychologist, medic, etc...) categorize and answer the questions 
+* Support, they are qualified members (student of psychology, psychologist, medic, etc...), they categorize and answer the questions 
 
 ## The online platform workflow
 1. Someone anonymously post a question in the platform
