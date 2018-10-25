@@ -2,9 +2,10 @@
 
 ## Our vision
 * The project is open source for maximum transparency
+* We love Democracy, every member can exercise power by voting
 * Everyone can improve this project, for example translate this project in your language if you want!
 * Our support roles are voluntary
-* Support roles are from remote and asynchronous, help other people WHEN you want and WHERE you want, you just need an internet connection.
+* Support roles are from remote and asynchronous, help other people WHEN you want and WHERE you want, you just need an internet connection
 * We protect our users identity, we believe in anonymity
 
 ## We believe in
@@ -17,7 +18,7 @@
 * Never blame the victim
 
 ## Privacy
-* We guarantee the anonymity of our users, to register we only ask for the age range and an email
+* We guarantee the anonymity of our users, in order to signup we only ask for the age range and an email
 
 ## Roles
 * Developers, build and manage the online platform
